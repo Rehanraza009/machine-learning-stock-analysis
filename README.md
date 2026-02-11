@@ -35,4 +35,4 @@ machine-learning-stock-analysis/
 
 ## 🎯 Purpose of the Project
 This project was built to understand how machine learning models can be integrated
-with modern web applications to analyze and visualize stock market data.
+with modern web applications to analyze and visualize stock market Data.
